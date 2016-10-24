@@ -1,0 +1,2 @@
+For this project we had to create our own portfolio. We could reference this in the furture for our employers to look at. For this project we had to find a templete that we liked and add our own styling to it. We had to incorporate certain task like projects, picture of us, about me page, and etc. We also had to include new javascripts, html, and css styling too.
+ 
